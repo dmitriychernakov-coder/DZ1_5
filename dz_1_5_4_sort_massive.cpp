@@ -11,7 +11,7 @@
 int main()
 {
 //	int massive[10]{51, 22, 54, 47, 76, 83, 55,13, 92, 3 };
-	int massive[]{10, 9, 8, 7, 5, 5, 4,3, 2, 1 };
+	int massive[]{10, 9, 8, 7, 6, 5, 4,3, 2, 1 };
 //	int minimum_ = massive[0];
 //	int maximum_ = massive[0];
 	int size = sizeof(massive)/sizeof(int);
